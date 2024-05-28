@@ -1,3 +1,4 @@
+![изображение](https://github.com/TheCadu/TheCadu1/assets/157862837/3f1bb413-ddb2-4883-af6d-62bbf224ba3d)
 
 
 
@@ -19,6 +20,7 @@
 
   
 ### Screenshots 📖 :
+![изображение](https://github.com/TheCadu/TheCadu1/assets/157862837/08a5bacc-517c-485e-b4bd-4b6f0be00ff8)
 
 
 
