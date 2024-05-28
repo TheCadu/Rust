@@ -24,4 +24,4 @@
 
 
 
-[📁Download Rust-Menu](https://bit.ly/3wU9wy9)
+[📁Download Rust-hack](https://bit.ly/3wU9wy9)
